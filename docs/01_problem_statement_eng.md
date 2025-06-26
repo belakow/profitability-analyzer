@@ -30,3 +30,7 @@ Develop a **prototype of a “Trip Cost Calculation Module”**, which:
 - Transparent model of “revenue – expenses – margin”
 - Reduction of unprofitable trips
 - Better route planning and driver workload distribution
+
+- ---
+
+> The project was developed as part of a business analyst portfolio in logistics but is based on real problems and processes in companies where I worked. Most data is fictitious or altered to preserve the confidentiality of company information.
