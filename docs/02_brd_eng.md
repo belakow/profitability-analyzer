@@ -6,7 +6,7 @@
 
 ## 2.2. Business Owner
 
-Commercial Director of Trans-Atlas LLC — Anatolii Prylutskyi
+Commercial Director of Trans-Atlas LLC - Anatolii Prylutskyi
 
 ## 2.3. Stakeholders
 
