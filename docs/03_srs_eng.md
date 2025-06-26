@@ -61,7 +61,7 @@ The system is used by the logistics department of a transportation company for f
 1. User opens the calculation module.
 2. Inputs:
    - Route: Ivano-Frankivsk (UA) - Dresden (DE)
-   - Distance: Ukraine – 204 km; Poland – 683 km; Germany – 110 km
+   - Distance: Ukraine - 204 km; Poland - 683 km; Germany - 110 km
    - Fuel price: 1.6 €/L
    - Cargo: Furniture
    - Tonnage: 12 tons
