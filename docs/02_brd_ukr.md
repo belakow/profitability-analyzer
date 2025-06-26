@@ -2,7 +2,7 @@
 
 ## 2.1. Назва проєкту
 
-Profitability Analyzer — модуль аналізу рентабельності рейсів
+Profitability Analyzer - модуль аналізу рентабельності рейсів
 
 ## 2.2. Замовник (Business Owner)
 
